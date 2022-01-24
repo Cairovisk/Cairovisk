@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cairovisk" alt="cairovisk" /> </p>
 
-- 🔭 I’m currently working on [LiberFly](https://www.liberfly.com.br) and [wepipe](https://www.wepipe.com.br)
+- 🔭 I’m currently working on [Imagination Media] and [wepipe](https://www.wepipe.com.br)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Vue, Sass, HTML**
+- 💬 Ask me about **Vue, React, JavaScript, BigCommerce, Sass, HTML**
 
 - 📫 How to reach me **cairoh1@hotmail.com**
 
