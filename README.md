@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cairovisk" alt="cairovisk" /> </p>
 
-- 🔭 I’m currently working on [Imagination Media](https://www.imaginationmedia.com/) and [wepipe](https://www.wepipe.com.br)
+- 🔭 I’m currently working on [Valtech](https://www.valtech.com/en-ca/) and [wepipe](https://www.wepipe.com.br)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Vue, React, JavaScript, BigCommerce, Sass, HTML**
 
