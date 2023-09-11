@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cairovisk" alt="cairovisk" /> </p>
 
-- 🔭 I’m currently working on [Jamersan](https://jamersan.com/) and [wepipe](https://www.wepipe.com.br)
+- 🔭 I’m currently working on [Jamersan](https://jamersan.com/)
 
 - 🌱 I’m currently learning **Next.js**
 
