@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cairovisk" alt="cairovisk" /> </p>
 
-- 🔭 I’m currently working on [Jamersan](https://jamersan.com/)
+- 🔭 I’m currently working on [Jamersan](https://jamersan.com/) and [Rise](https://www.riseworks.io/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Vue, React, JavaScript, Cypress, BigCommerce, Sass, HTML**
+- 💬 Ask me about **Vue, BigCommerce, React, TypeScript, JavaScript, Cypress, Sass, HTML**
 
 - 📫 How to reach me **cairoh1@hotmail.com**
 
