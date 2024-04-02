@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cairo Hoffmann</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cairovisk" alt="cairovisk" /> </p>
 
-- 🔭 I’m currently working on [Jamersan](https://jamersan.com/) and [Rise](https://www.riseworks.io/)
+- 🔭 I’m currently working on [Jamersan](https://jamersan.com/)
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Vue, BigCommerce, React, TypeScript, JavaScript, Cypress, Sass, HTML**
+- 💬 Ask me about **Vue, BigCommerce, TypeScript, React, JavaScript, Cypress, Sass, HTML**
 
 - 📫 How to reach me **cairoh1@hotmail.com**
 
